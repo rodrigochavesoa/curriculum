@@ -223,7 +223,8 @@ Tech Stack: Python, Node.js, Express, GeoPy, ClickUp API
 **Status:** Disponível para novas oportunidades  
 **Tipo de Contrato:** PJ | CLT | Freelance
 
-====================================================================================================
+#======================================================================================
+
 Version #2
 # Rodrigo Chaves
 ## 🎯 AI Engineer | Python Developer | UX/PM especializado em IA & Automação
